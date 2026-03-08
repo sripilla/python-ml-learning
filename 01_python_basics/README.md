@@ -1,91 +1,122 @@
 # Python for Machine Learning – Structured Learning Repository
 
-This repository documents a structured learning journey through Python, starting from core programming concepts and progressing toward libraries and tools required for Machine Learning, Data Science, and AI.
+This repository documents a structured learning journey through Python, starting from core programming concepts and progressing toward libraries required for Machine Learning, Data Science, and AI.
 
-The notebooks are written in a tutorial style with explanations and runnable code so the concepts can be easily revisited later.
+The notebooks are written in a tutorial style with explanations and runnable code so concepts can be easily revisited later.
 
 ---
 
-# Learning Path
+# Learning Progress
 
-The repository is organized into modules that gradually build Python proficiency.
-
-## 1️⃣ Python Basics
-
+## Python Basics
 Location: `01_python_basics`
 
-Topics covered:
-
-1. Variables
-2. Data Types
-3. Lists
-4. Tuples
-5. Dictionaries
-6. Sets
-7. Conditional Statements
-8. Loops
-9. List Comprehension
-10. Functions
-11. Lambda Functions
-12. Error Handling
-13. File Handling
-
-These topics build the core programming foundation required before moving into advanced Python and machine learning.
+- [x] Variables
+- [x] Data Types
+- [x] Lists
+- [x] Tuples
+- [x] Dictionaries
+- [x] Sets
+- [x] Conditional Statements
+- [x] Loops
+- [x] List Comprehension
+- [x] Functions
+- [x] Lambda Functions
+- [x] Error Handling
+- [x] File Handling
 
 ---
 
-## 2️⃣ Object Oriented Programming (OOP)
-
+## Object Oriented Programming
 Location: `02_python_oop`
 
-Topics covered:
-
-1. Classes and Objects
-2. Constructors
-3. Inheritance
-4. Encapsulation
-5. Polymorphism
-6. Abstraction
-
-OOP is widely used in modern Python frameworks including machine learning libraries such as PyTorch and TensorFlow.
+- [x] Classes and Objects
+- [x] Constructors
+- [x] Inheritance
+- [x] Encapsulation
+- [x] Polymorphism
+- [x] Abstraction
 
 ---
 
-## 3️⃣ Upcoming Modules
+## NumPy (Upcoming)
+Location: `03_numpy`
 
-The following modules will be added as the learning journey progresses:
+- [ ] NumPy Basics
+- [ ] NumPy Arrays
+- [ ] Indexing and Slicing
+- [ ] Vectorized Operations
+- [ ] Broadcasting
+- [ ] Matrix Operations
 
-- **03_numpy**
-  - Numerical computing
-  - Arrays and vectorized operations
+---
 
-- **04_pandas**
-  - Data manipulation
-  - DataFrames and data cleaning
+## Pandas (Upcoming)
+Location: `04_pandas`
 
-- **05_visualization**
-  - Matplotlib
-  - Seaborn
-  - Data visualization techniques
+- [ ] Pandas Basics
+- [ ] DataFrames
+- [ ] Data Cleaning
+- [ ] Handling Missing Values
+- [ ] GroupBy Operations
+- [ ] Data Aggregation
 
-- **06_machine_learning**
-  - Scikit-learn
-  - Model training and evaluation
+---
 
-- **07_deep_learning**
-  - Neural networks
-  - PyTorch / TensorFlow
+## Data Visualization (Upcoming)
+Location: `05_visualization`
 
-- **08_computer_vision**
-  - Image processing
-  - OpenCV
-  - Vision models
+- [ ] Matplotlib Basics
+- [ ] Line Charts
+- [ ] Bar Charts
+- [ ] Scatter Plots
+- [ ] Histograms
+- [ ] Seaborn Visualization
 
-- **09_projects**
-  - End-to-end practical projects
+---
+
+## Machine Learning (Upcoming)
+Location: `06_machine_learning`
+
+- [ ] Data Preprocessing
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] Decision Trees
+- [ ] Support Vector Machines
+- [ ] Clustering Algorithms
+
+---
+
+## Deep Learning (Upcoming)
+Location: `07_deep_learning`
+
+- [ ] Neural Network Basics
+- [ ] PyTorch Basics
+- [ ] Training Neural Networks
+- [ ] CNNs
+- [ ] Model Evaluation
+
+---
+
+## Computer Vision (Upcoming)
+Location: `08_computer_vision`
+
+- [ ] Image Processing
+- [ ] Edge Detection
+- [ ] Feature Extraction
+- [ ] Object Detection
+- [ ] OpenCV Projects
+
+---
+
+## Projects (Upcoming)
+Location: `09_projects`
+
+- [ ] Mini Data Science Projects
+- [ ] Machine Learning Projects
+- [ ] Computer Vision Projects
+- [ ] End-to-End AI Applications
 
 ---
 
 # Repository Structure
-
-13. File Handling
